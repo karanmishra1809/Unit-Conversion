@@ -111,3 +111,11 @@ Input validation
 Loops & menus
 
 Basic arithmetic operations
+
+<img width="520" height="499" alt="image" src="https://github.com/user-attachments/assets/3d0a8958-6d5d-4041-a0a4-c256b04a15ff" />
+<img width="440" height="306" alt="image" src="https://github.com/user-attachments/assets/5b398761-4b61-42c9-a7e4-2cffd4dfbd01" />
+<img width="455" height="454" alt="image" src="https://github.com/user-attachments/assets/49e6f786-f1ff-419a-b4ec-fd5de8e4e29f" />
+
+
+
+
